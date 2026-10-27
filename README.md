@@ -1,4 +1,4 @@
-# Atelier ML
+# Atelier ML Giancarlo Vardaro
 
 ## Première partie
 
